@@ -1,5 +1,6 @@
 # Bruno Costa :man_technologist:
  - Desenvolvedor Java back-end
+ - Projetos pessoais: http://www.notificacao-sms.com [![Github Badge](https://img.shields.io/badge/-repository-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunotitata)](https://github.com/brunotitata/sms-service)
 
 ---
 [![Github Badge](https://img.shields.io/badge/-brunotitata-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunotitata)](https://github.com/brunotitata)
